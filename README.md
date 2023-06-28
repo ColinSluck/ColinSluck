@@ -1,6 +1,6 @@
 ![image](https://www.codewars.com/users/Lecol/badges/large)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinSluck&layout=compact&langs_count=10&hide=rtf)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinSluck&layout=compact&langs_count=10&hide=rich%20text%20format)
 
 <!--
 **ColinSluck/ColinSluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
