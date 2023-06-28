@@ -1,6 +1,10 @@
-![image](https://www.codewars.com/users/Lecol/badges/large)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ColinSluck&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinSluck&layout=compact&langs_count=10&hide=rich%20text%20format)
+
+![Code Wars card](https://www.codewars.com/users/Lecol/badges/large)
+
+
 
 <!--
 **ColinSluck/ColinSluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
